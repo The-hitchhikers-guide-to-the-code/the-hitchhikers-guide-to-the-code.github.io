@@ -3,8 +3,57 @@
     "content": "Lorem Ipsum.\n",
     "description": "",
     "tags": null,
-    "title": "002.Basic",
-    "uri": "/basic/"
+    "title": "1.Study",
+    "uri": "/1.study/"
+  },
+  {
+    "content": " title: “Book” date: 2022-09-13T13:12:13+09:00 draft: true ",
+    "description": "",
+    "tags": null,
+    "title": "Book",
+    "uri": "/1.study/1.1book/"
+  },
+  {
+    "content": "",
+    "description": "",
+    "tags": null,
+    "title": "스프링 부트를 활용한 마이크로 서비스 개발",
+    "uri": "/1.study/1.1book/1.1.1springbootmsa/"
+  },
+  {
+    "content": " title: “CsBasic” date: 2022-09-13T13:13:04+09:00 draft: true weight = 12 ",
+    "description": "",
+    "tags": null,
+    "title": "2. Computer Science Basic",
+    "uri": "/1.study/1.2csbasic/"
+  },
+  {
+    "content": "Lorem Ipsum.\n",
+    "description": "",
+    "tags": null,
+    "title": "2.Blog",
+    "uri": "/2.blog/"
+  },
+  {
+    "content": "Lorem Ipsum.\n",
+    "description": "",
+    "tags": null,
+    "title": "3.DevLog",
+    "uri": "/3.devlog/"
+  },
+  {
+    "content": "Lorem Ipsum.\n",
+    "description": "",
+    "tags": null,
+    "title": "4.HowTo",
+    "uri": "/4.howto/"
+  },
+  {
+    "content": "Lorem Ipsum.\n",
+    "description": "",
+    "tags": null,
+    "title": "5.Paper",
+    "uri": "/5.paper/"
   },
   {
     "content": "",
@@ -17,14 +66,14 @@
     "content": "",
     "description": "",
     "tags": null,
-    "title": "Hugo Relearn Theme",
-    "uri": "/"
+    "title": "Tags",
+    "uri": "/tags/"
   },
   {
     "content": "",
     "description": "",
     "tags": null,
-    "title": "Tags",
-    "uri": "/tags/"
+    "title": "The Hitchhiker's Guide To The Code",
+    "uri": "/"
   }
 ]

@@ -7,8 +7,9 @@
     <meta name="generator" content="Relearn 5.2.3+tip">
     <meta name="description" content="Documentation for Hugo Relearn Theme">
     <meta name="author" content="Sören Weber">
-    <title>Categories :: The Hitchhiker&#39;s Guide To The Code</title>
-    <link href="/categories/index.xml" rel="alternate" type="application/rss+xml" title="The Hitchhiker&#39;s Guide To The Code">
+    <title>1.Study :: The Hitchhiker&#39;s Guide To The Code</title>
+    <link href="/1.study/" rel="canonical" type="text/html" title="The Hitchhiker&#39;s Guide To The Code">
+    <link href="/1.study/index.xml" rel="alternate" type="application/rss+xml" title="The Hitchhiker&#39;s Guide To The Code">
     <!-- https://github.com/filamentgroup/loadCSS/blob/master/README.md#how-to-use -->
     <link href="/css/fontawesome-all.min.css?1663043430" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/css/fontawesome-all.min.css?1663043430" rel="stylesheet"></noscript>
     <link href="/css/featherlight.min.css?1663043430" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/css/featherlight.min.css?1663043430" rel="stylesheet"></noscript>
@@ -21,6 +22,7 @@
     <link href="/css/ie.css?1663043430" rel="stylesheet">
     <link href="/css/variant.css?1663043430" rel="stylesheet">
     <link href="/css/print.css?1663043430" rel="stylesheet" media="print">
+    <link href="/css/format-print.css?1663043430" rel="stylesheet">
     <script src="/js/variant.js?1663043430"></script>
     <script>
       // hack to let hugo tell us how to get to the root when using relativeURLs, it needs to be called *url= for it to do its magic:
@@ -39,17 +41,27 @@
     </script>
     <script src="/js/jquery.min.js?1663043430" defer></script>
   </head>
-  <body class="mobile-support html" data-url="/categories/">
+  <body class="mobile-support print" data-url="/1.study/">
     <div id="body" class="default-animation">
       <div id="sidebar-overlay"></div>
       <div id="toc-overlay"></div>
       <nav id="topbar" class="highlightable">
         <div>
           <div class="navigation">
-             <span class="nav nav-next"><i class="fa fa-chevron-right fa-fw"></i></span>
+             <a class="nav nav-next" href="/1.study/1.1book/" title="Book (&#129106;)"><i class="fas fa-chevron-right fa-fw"></i></a>
           </div>
           <div class="navigation">
-             <a class="nav nav-prev" href="/5.paper/" title="5.Paper (&#129104;)"><i class="fas fa-chevron-left fa-fw"></i></a>
+             <a class="nav nav-prev" href="/" title="The Hitchhiker&#39;s Guide To The Code (&#129104;)"><i class="fas fa-chevron-left fa-fw"></i></a>
+          </div>
+          <div id="top-print-link">
+            <a class="print-link" title='전체 장 인쇄 (CTRL+ALT+p)' href="/1.study/index.print.html">
+              <i class="fas fa-print fa-fw"></i>
+            </a>
+          </div>
+          <div id="top-github-link">
+            <a class="github-link" title='편집 (CTRL+ALT+e)' href="https://github.com/McShelby/hugo-theme-relearn/edit/main/exampleSite/content/1.Study/_index.md" target="blank">
+              <i class="fas fa-pen fa-fw"></i>
+            </a>
           </div>
           <div id="breadcrumbs">
             <span id="sidebar-toggle-span">
@@ -58,24 +70,64 @@
             <ol class="links" itemscope itemtype="http://schema.org/BreadcrumbList">
               <meta itemprop="itemListOrder" content="Descending" />
               <li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement"><meta itemprop="position" content="2" /><a itemprop="item" href="/"><span itemprop="name">The Hitchhiker&#39;s Guide To The Code</span></a> > </li>
-              <li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement"><meta itemprop="position" content="1" /><a itemprop="item" href="/categories/" aria-disabled="true"><span itemprop="name">Categories</span></a></li>
+              <li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement"><meta itemprop="position" content="1" /><a itemprop="item" href="/1.study/" aria-disabled="true"><span itemprop="name">1.Study</span></a></li>
             </ol>
           </div>
         </div>
       </nav>
-      <main id="body-inner" class="highlightable default" tabindex="-1">
+      <main id="body-inner" class="highlightable chapter narrow" tabindex="-1">
         <div class="flex-block-wrapper">
           <div id="head-tags">
           </div>
-          <article>
+          <article class="chapter">
+<div class="article-subheading">1장</div>
+<h1>1.Study</h1>
 
-<h1>Categories</h1>
-<ul>
-</ul>
+<p>Lorem Ipsum.</p>
 
             <footer class="footline">
             </footer>
-          </article>        </div>
+          </article>
+
+          <section>
+          <article class="chapter">
+<div class="article-subheading">1장</div>
+<h1>Book</h1>
+
+<hr>
+<h2 id="draft-true">title: &ldquo;Book&rdquo;
+date: 2022-09-13T13:12:13+09:00
+draft: true</h2>
+
+            <footer class="footline">
+            </footer>
+          </article>
+
+          <section>
+          <article class="chapter">
+<div class="article-subheading">1장</div>
+<h1>스프링 부트를 활용한 마이크로 서비스 개발</h1>
+
+
+            <footer class="footline">
+            </footer>
+          </article>
+
+          </section>
+          <article class="default">
+<h1>2. Computer Science Basic</h1>
+
+<hr>
+<h2 id="weight--12">title: &ldquo;CsBasic&rdquo;
+date: 2022-09-13T13:13:04+09:00
+draft: true
+weight = 12</h2>
+
+            <footer class="footline">
+            </footer>
+          </article>
+
+          </section>        </div>
       </main>
     </div>
     <aside id="sidebar" class="default-animation showVisitedLinks">
@@ -158,7 +210,7 @@
       </div>
       <div id="content-wrapper" class="highlightable">
         <ul class="topics collapsible-menu">
-          <li data-nav-id="/1.study/" title="1.Study" class="dd-item"><input type="checkbox" id="section-c2a0777a630e14a7116451005c63c0f7" class="toggle"/><label for="section-c2a0777a630e14a7116451005c63c0f7" ></label><a href="/1.study/">1.Study<i class="fas fa-check read-icon"></i></a><ul>
+          <li data-nav-id="/1.study/" title="1.Study" class="dd-item active parent"><input type="checkbox" id="section-c2a0777a630e14a7116451005c63c0f7" class="toggle" checked/><label for="section-c2a0777a630e14a7116451005c63c0f7" ></label><a href="/1.study/">1.Study<i class="fas fa-check read-icon"></i></a><ul>
           <li data-nav-id="/1.study/1.1book/" title="Book" class="dd-item alwaysopen"><input type="checkbox" id="section-6f4bd4628edae7de87edff6469af67a5" class="toggle" checked/><label for="section-6f4bd4628edae7de87edff6469af67a5" ></label><a href="/1.study/1.1book/">From Book<i class="fas fa-check read-icon"></i></a><ul>
           <li data-nav-id="/1.study/1.1book/1.1.1springbootmsa/" title="스프링 부트를 활용한 마이크로 서비스 개발" class="dd-item"><a href="/1.study/1.1book/1.1.1springbootmsa/">1.1.1 스프링 부트를 활용한 마이크로 서비스 개발<i class="fas fa-check read-icon"></i></a></li></ul></li>
           <li data-nav-id="/1.study/1.2csbasic/" title="2. Computer Science Basic" class="dd-item"><a href="/1.study/1.2csbasic/">Computer Science Basic<i class="fas fa-check read-icon"></i></a></li></ul></li>
