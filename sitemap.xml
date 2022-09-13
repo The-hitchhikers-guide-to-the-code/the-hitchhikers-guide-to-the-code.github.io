@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://the-hitchhikers-guide-to-the-code.github.io/1.study/</loc>
+    <loc>https://the-hitchhikers-guide-to-the-code.github.io/1.blog/</loc>
   </url>
   <url>
-    <loc>https://the-hitchhikers-guide-to-the-code.github.io/1.study/1.1book/</loc>
+    <loc>https://the-hitchhikers-guide-to-the-code.github.io/4.study/4.1book/</loc>
   </url>
   <url>
-    <loc>https://the-hitchhikers-guide-to-the-code.github.io/1.study/1.1book/1.1.1springbootmsa/</loc>
+    <loc>https://the-hitchhikers-guide-to-the-code.github.io/2.til/</loc>
   </url>
   <url>
-    <loc>https://the-hitchhikers-guide-to-the-code.github.io/1.study/1.2csbasic/</loc>
+    <loc>https://the-hitchhikers-guide-to-the-code.github.io/3.howto/</loc>
   </url>
   <url>
-    <loc>https://the-hitchhikers-guide-to-the-code.github.io/2.blog/</loc>
-  </url>
-  <url>
-    <loc>https://the-hitchhikers-guide-to-the-code.github.io/3.devlog/</loc>
-  </url>
-  <url>
-    <loc>https://the-hitchhikers-guide-to-the-code.github.io/4.howto/</loc>
+    <loc>https://the-hitchhikers-guide-to-the-code.github.io/4.study/</loc>
   </url>
   <url>
     <loc>https://the-hitchhikers-guide-to-the-code.github.io/5.paper/</loc>
+  </url>
+  <url>
+    <loc>https://the-hitchhikers-guide-to-the-code.github.io/4.study/4.1book/4.1.1springbootmsa/</loc>
+  </url>
+  <url>
+    <loc>https://the-hitchhikers-guide-to-the-code.github.io/4.study/4.2csbasic/</loc>
   </url>
   <url>
     <loc>https://the-hitchhikers-guide-to-the-code.github.io/categories/</loc>

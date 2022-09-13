@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>스프링 부트를 활용한 마이크로 서비스 개발 on The Hitchhiker&#39;s Guide To The Code</title>
+    <link>https://the-hitchhikers-guide-to-the-code.github.io/4.study/4.1book/4.1.1springbootmsa/</link>
+    <description>Recent content in 스프링 부트를 활용한 마이크로 서비스 개발 on The Hitchhiker&#39;s Guide To The Code</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>kr</language><atom:link href="https://the-hitchhikers-guide-to-the-code.github.io/4.study/4.1book/4.1.1springbootmsa/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

@@ -3,57 +3,57 @@
     "content": "Lorem Ipsum.\n",
     "description": "",
     "tags": null,
-    "title": "1.Study",
-    "uri": "/1.study/"
+    "title": "Blog",
+    "uri": "/1.blog/"
   },
   {
     "content": " title: “Book” date: 2022-09-13T13:12:13+09:00 draft: true ",
     "description": "",
     "tags": null,
     "title": "Book",
-    "uri": "/1.study/1.1book/"
+    "uri": "/4.study/4.1book/"
+  },
+  {
+    "content": "Lorem Ipsum.\n",
+    "description": "",
+    "tags": null,
+    "title": "Today I Learned",
+    "uri": "/2.til/"
+  },
+  {
+    "content": "Lorem Ipsum.\n",
+    "description": "",
+    "tags": null,
+    "title": "HowTo",
+    "uri": "/3.howto/"
+  },
+  {
+    "content": "Lorem Ipsum.\n",
+    "description": "",
+    "tags": null,
+    "title": "Study",
+    "uri": "/4.study/"
+  },
+  {
+    "content": "Lorem Ipsum.\n",
+    "description": "",
+    "tags": null,
+    "title": "Paper",
+    "uri": "/5.paper/"
   },
   {
     "content": "",
     "description": "",
     "tags": null,
     "title": "스프링 부트를 활용한 마이크로 서비스 개발",
-    "uri": "/1.study/1.1book/1.1.1springbootmsa/"
+    "uri": "/4.study/4.1book/4.1.1springbootmsa/"
   },
   {
     "content": " title: “CsBasic” date: 2022-09-13T13:13:04+09:00 draft: true weight = 12 ",
     "description": "",
     "tags": null,
-    "title": "2. Computer Science Basic",
-    "uri": "/1.study/1.2csbasic/"
-  },
-  {
-    "content": "Lorem Ipsum.\n",
-    "description": "",
-    "tags": null,
-    "title": "2.Blog",
-    "uri": "/2.blog/"
-  },
-  {
-    "content": "Lorem Ipsum.\n",
-    "description": "",
-    "tags": null,
-    "title": "3.DevLog",
-    "uri": "/3.devlog/"
-  },
-  {
-    "content": "Lorem Ipsum.\n",
-    "description": "",
-    "tags": null,
-    "title": "4.HowTo",
-    "uri": "/4.howto/"
-  },
-  {
-    "content": "Lorem Ipsum.\n",
-    "description": "",
-    "tags": null,
-    "title": "5.Paper",
-    "uri": "/5.paper/"
+    "title": "Computer Science Basic",
+    "uri": "/4.study/4.2csbasic/"
   },
   {
     "content": "",
