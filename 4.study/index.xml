@@ -14,11 +14,11 @@
       <description> title: &amp;ldquo;Book&amp;rdquo; date: 2022-09-13T13:12:13+09:00 draft: true </description>
     </item>
     <item>
-      <title>Computer Science Basic</title>
+      <title>Computer Science</title>
       <link>https://the-hitchhikers-guide-to-the-code.github.io/4.study/4.2csbasic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://the-hitchhikers-guide-to-the-code.github.io/4.study/4.2csbasic/</guid>
-      <description> title: &amp;ldquo;CsBasic&amp;rdquo; date: 2022-09-13T13:13:04+09:00 draft: true weight = 12 </description>
+      <description>다시보는 Computer Science 전공필수 </description>
     </item>
   </channel>
 </rss>

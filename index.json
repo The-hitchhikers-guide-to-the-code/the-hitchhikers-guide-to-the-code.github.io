@@ -14,6 +14,83 @@
     "uri": "/4.study/4.1book/"
   },
   {
+    "content": "다시보는 Computer Science 전공필수 ",
+    "description": "",
+    "tags": null,
+    "title": "Computer Science",
+    "uri": "/4.study/4.2csbasic/"
+  },
+  {
+    "content": "Lorem Ipsum.\n",
+    "description": "",
+    "tags": null,
+    "title": "Algorithm",
+    "uri": "/4.study/4.2csbasic/algorithm/"
+  },
+  {
+    "content": "Lorem Ipsum.\n",
+    "description": "",
+    "tags": null,
+    "title": "Algorithm",
+    "uri": "/4.study/4.3language/frontend/"
+  },
+  {
+    "content": "Lorem Ipsum.\n",
+    "description": "",
+    "tags": null,
+    "title": "Algorithm",
+    "uri": "/4.study/4.3language/java/"
+  },
+  {
+    "content": "Lorem Ipsum.\n",
+    "description": "",
+    "tags": null,
+    "title": "Algorithm",
+    "uri": "/4.study/4.3language/js-es-ts/"
+  },
+  {
+    "content": "Lorem Ipsum.\n",
+    "description": "",
+    "tags": null,
+    "title": "Algorithm",
+    "uri": "/4.study/4.3language/python/"
+  },
+  {
+    "content": "Lorem Ipsum.\n",
+    "description": "",
+    "tags": null,
+    "title": "Algorithm",
+    "uri": "/4.study/4.5field/blockchain/"
+  },
+  {
+    "content": "Lorem Ipsum.\n",
+    "description": "",
+    "tags": null,
+    "title": "Algorithm",
+    "uri": "/4.study/4.5field/deeplearning/"
+  },
+  {
+    "content": "Lorem Ipsum.\n",
+    "description": "",
+    "tags": null,
+    "title": "Algorithm",
+    "uri": "/4.study/4.5field/fintech/"
+  },
+  {
+    "content": "Lorem Ipsum.\n",
+    "description": "",
+    "tags": null,
+    "title": "Algorithm",
+    "uri": "/4.study/4.5field/game/"
+  },
+  {
+    "content": "Lorem Ipsum.\n",
+    "description": "",
+    "tags": null,
+    "title": "DataStructure",
+    "uri": "/4.study/4.2csbasic/datastructure/"
+  },
+  {
     "content": "Lorem Ipsum.\n",
     "description": "",
     "tags": null,
@@ -24,8 +101,22 @@
     "content": "Lorem Ipsum.\n",
     "description": "",
     "tags": null,
+    "title": "ComputerStructure",
+    "uri": "/4.study/4.2csbasic/computerstructure/"
+  },
+  {
+    "content": "Lorem Ipsum.\n",
+    "description": "",
+    "tags": null,
     "title": "HowTo",
     "uri": "/3.howto/"
+  },
+  {
+    "content": "Lorem Ipsum.\n",
+    "description": "",
+    "tags": null,
+    "title": "Operating System",
+    "uri": "/4.study/4.2csbasic/os/"
   },
   {
     "content": "Lorem Ipsum.\n",
@@ -42,18 +133,18 @@
     "uri": "/5.paper/"
   },
   {
+    "content": "Lorem Ipsum.\n",
+    "description": "",
+    "tags": null,
+    "title": "Programming Language",
+    "uri": "/4.study/4.2csbasic/pl/"
+  },
+  {
     "content": "",
     "description": "",
     "tags": null,
     "title": "스프링 부트를 활용한 마이크로 서비스 개발",
     "uri": "/4.study/4.1book/4.1.1springbootmsa/"
-  },
-  {
-    "content": " title: “CsBasic” date: 2022-09-13T13:13:04+09:00 draft: true weight = 12 ",
-    "description": "",
-    "tags": null,
-    "title": "Computer Science Basic",
-    "uri": "/4.study/4.2csbasic/"
   },
   {
     "content": "",
@@ -63,17 +154,17 @@
     "uri": "/categories/"
   },
   {
-    "content": "",
+    "content": "Lorem Ipsum.\n",
     "description": "",
     "tags": null,
-    "title": "Tags",
-    "uri": "/tags/"
+    "title": "Home",
+    "uri": "/"
   },
   {
     "content": "",
     "description": "",
     "tags": null,
-    "title": "The Hitchhiker's Guide To The Code",
-    "uri": "/"
+    "title": "Tags",
+    "uri": "/tags/"
   }
 ]
