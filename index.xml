@@ -2,43 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>home on The Hitchhiker&#39;s Guide To The Code</title>
-    <link>https://the-hitchhikers-guide-to-the-code.github.io/</link>
+    <link>https://guide2code.com/</link>
     <description>Recent content in home on The Hitchhiker&#39;s Guide To The Code</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>kr</language><atom:link href="https://the-hitchhikers-guide-to-the-code.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>kr</language><atom:link href="https://guide2code.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog</title>
-      <link>https://the-hitchhikers-guide-to-the-code.github.io/blog/</link>
+      <link>https://guide2code.com/blog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://the-hitchhikers-guide-to-the-code.github.io/blog/</guid>
+      <guid>https://guide2code.com/blog/</guid>
       <description>Lorem Ipsum.</description>
     </item>
     <item>
       <title>TIL</title>
-      <link>https://the-hitchhikers-guide-to-the-code.github.io/til/</link>
+      <link>https://guide2code.com/til/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://the-hitchhikers-guide-to-the-code.github.io/til/</guid>
+      <guid>https://guide2code.com/til/</guid>
       <description>Lorem Ipsum.</description>
     </item>
     <item>
       <title>HowTo</title>
-      <link>https://the-hitchhikers-guide-to-the-code.github.io/howto/</link>
+      <link>https://guide2code.com/howto/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://the-hitchhikers-guide-to-the-code.github.io/howto/</guid>
+      <guid>https://guide2code.com/howto/</guid>
       <description>Lorem Ipsum.</description>
     </item>
     <item>
       <title>Study</title>
-      <link>https://the-hitchhikers-guide-to-the-code.github.io/study/</link>
+      <link>https://guide2code.com/study/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://the-hitchhikers-guide-to-the-code.github.io/study/</guid>
+      <guid>https://guide2code.com/study/</guid>
       <description>Lorem Ipsum.</description>
     </item>
     <item>
       <title>Paper</title>
-      <link>https://the-hitchhikers-guide-to-the-code.github.io/paper/</link>
+      <link>https://guide2code.com/paper/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://the-hitchhikers-guide-to-the-code.github.io/paper/</guid>
+      <guid>https://guide2code.com/paper/</guid>
       <description>Lorem Ipsum.</description>
     </item>
   </channel>

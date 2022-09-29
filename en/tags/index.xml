@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on The Hitchhiker&#39;s Guide To The Code</title>
-    <link>https://the-hitchhikers-guide-to-the-code.github.io/en/tags/</link>
+    <link>https://guide2code.com/en/tags/</link>
     <description>Recent content in Tags on The Hitchhiker&#39;s Guide To The Code</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>kr</language><atom:link href="https://the-hitchhikers-guide-to-the-code.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>kr</language><atom:link href="https://guide2code.com/en/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

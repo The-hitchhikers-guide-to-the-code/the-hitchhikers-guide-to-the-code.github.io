@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ComputerStructure on The Hitchhiker&#39;s Guide To The Code</title>
-    <link>https://the-hitchhikers-guide-to-the-code.github.io/en/study/csrequired/computerstructure/</link>
+    <link>https://guide2code.com/en/study/csrequired/computerstructure/</link>
     <description>Recent content in ComputerStructure on The Hitchhiker&#39;s Guide To The Code</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>kr</language><atom:link href="https://the-hitchhikers-guide-to-the-code.github.io/en/study/csrequired/computerstructure/index.xml" rel="self" type="application/rss+xml" />
+    <language>kr</language><atom:link href="https://guide2code.com/en/study/csrequired/computerstructure/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
