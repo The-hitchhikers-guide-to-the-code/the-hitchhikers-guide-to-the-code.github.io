@@ -3,148 +3,169 @@
     "content": "Lorem Ipsum.\n",
     "description": "",
     "tags": null,
+    "title": "Algorithm",
+    "uri": "/study/csrequired/algorithm/"
+  },
+  {
+    "content": "Lorem Ipsum.\n",
+    "description": "",
+    "tags": null,
     "title": "Blog",
-    "uri": "/1.blog/"
+    "uri": "/blog/"
   },
   {
     "content": " title: “Book” date: 2022-09-13T13:12:13+09:00 draft: true ",
     "description": "",
     "tags": null,
     "title": "Book",
-    "uri": "/4.study/4.1book/"
+    "uri": "/study/book/"
   },
   {
-    "content": "다시보는 Computer Science 전공필수 ",
+    "content": "",
     "description": "",
     "tags": null,
-    "title": "Computer Science",
-    "uri": "/4.study/4.2csbasic/"
+    "title": "Computer Science Knowledge",
+    "uri": "/study/csknowledge/"
   },
   {
-    "content": "Lorem Ipsum.\n",
+    "content": "",
     "description": "",
     "tags": null,
-    "title": "Algorithm",
-    "uri": "/4.study/4.2csbasic/algorithm/"
-  },
-  {
-    "content": "Lorem Ipsum.\n",
-    "description": "",
-    "tags": null,
-    "title": "Algorithm",
-    "uri": "/4.study/4.3language/frontend/"
+    "title": "Computer Science Major Required",
+    "uri": "/study/csrequired/"
   },
   {
     "content": "Lorem Ipsum.\n",
     "description": "",
     "tags": null,
-    "title": "Algorithm",
-    "uri": "/4.study/4.3language/java/"
+    "title": "Financial Technology",
+    "uri": "/study/field/fintech/"
   },
   {
     "content": "Lorem Ipsum.\n",
     "description": "",
     "tags": null,
-    "title": "Algorithm",
-    "uri": "/4.study/4.3language/js-es-ts/"
+    "title": "JAVA",
+    "uri": "/study/language/java/"
   },
   {
     "content": "Lorem Ipsum.\n",
     "description": "",
     "tags": null,
-    "title": "Algorithm",
-    "uri": "/4.study/4.3language/python/"
-  },
-  {
-    "content": "Lorem Ipsum.\n",
-    "description": "",
-    "tags": null,
-    "title": "Algorithm",
-    "uri": "/4.study/4.5field/blockchain/"
-  },
-  {
-    "content": "Lorem Ipsum.\n",
-    "description": "",
-    "tags": null,
-    "title": "Algorithm",
-    "uri": "/4.study/4.5field/deeplearning/"
-  },
-  {
-    "content": "Lorem Ipsum.\n",
-    "description": "",
-    "tags": null,
-    "title": "Algorithm",
-    "uri": "/4.study/4.5field/fintech/"
-  },
-  {
-    "content": "Lorem Ipsum.\n",
-    "description": "",
-    "tags": null,
-    "title": "Algorithm",
-    "uri": "/4.study/4.5field/game/"
+    "title": "Blockchain",
+    "uri": "/study/field/blockchain/"
   },
   {
     "content": "Lorem Ipsum.\n",
     "description": "",
     "tags": null,
     "title": "DataStructure",
-    "uri": "/4.study/4.2csbasic/datastructure/"
+    "uri": "/study/csrequired/datastructure/"
   },
   {
     "content": "Lorem Ipsum.\n",
     "description": "",
     "tags": null,
-    "title": "Today I Learned",
-    "uri": "/2.til/"
+    "title": "Game",
+    "uri": "/study/field/game/"
   },
   {
     "content": "Lorem Ipsum.\n",
     "description": "",
     "tags": null,
-    "title": "ComputerStructure",
-    "uri": "/4.study/4.2csbasic/computerstructure/"
+    "title": "JS / ES / TS",
+    "uri": "/study/language/js/"
+  },
+  {
+    "content": "Lorem Ipsum.\n",
+    "description": "",
+    "tags": null,
+    "title": "TIL",
+    "uri": "/til/"
+  },
+  {
+    "content": "Lorem Ipsum.\n",
+    "description": "",
+    "tags": null,
+    "title": "Deep Learning",
+    "uri": "/study/field/deeplearning/"
   },
   {
     "content": "Lorem Ipsum.\n",
     "description": "",
     "tags": null,
     "title": "HowTo",
-    "uri": "/3.howto/"
+    "uri": "/howto/"
+  },
+  {
+    "content": "Lorem Ipsum.\n",
+    "description": "",
+    "tags": null,
+    "title": "Language",
+    "uri": "/study/language/"
   },
   {
     "content": "Lorem Ipsum.\n",
     "description": "",
     "tags": null,
     "title": "Operating System",
-    "uri": "/4.study/4.2csbasic/os/"
+    "uri": "/study/csrequired/os/"
+  },
+  {
+    "content": "Lorem Ipsum.\n",
+    "description": "",
+    "tags": null,
+    "title": "Python",
+    "uri": "/study/language/python/"
+  },
+  {
+    "content": "Lorem Ipsum.\n",
+    "description": "",
+    "tags": null,
+    "title": "ComputerStructure",
+    "uri": "/study/csrequired/computerstructure/"
+  },
+  {
+    "content": "Lorem Ipsum.\n",
+    "description": "",
+    "tags": null,
+    "title": "Framework",
+    "uri": "/study/fw/"
   },
   {
     "content": "Lorem Ipsum.\n",
     "description": "",
     "tags": null,
     "title": "Study",
-    "uri": "/4.study/"
+    "uri": "/study/"
+  },
+  {
+    "content": "Lorem Ipsum.\n",
+    "description": "",
+    "tags": null,
+    "title": "Field",
+    "uri": "/study/field/"
   },
   {
     "content": "Lorem Ipsum.\n",
     "description": "",
     "tags": null,
     "title": "Paper",
-    "uri": "/5.paper/"
+    "uri": "/paper/"
   },
   {
     "content": "Lorem Ipsum.\n",
     "description": "",
     "tags": null,
     "title": "Programming Language",
-    "uri": "/4.study/4.2csbasic/pl/"
+    "uri": "/study/csrequired/pl/"
   },
   {
     "content": "",
     "description": "",
     "tags": null,
     "title": "스프링 부트를 활용한 마이크로 서비스 개발",
-    "uri": "/4.study/4.1book/4.1.1springbootmsa/"
+    "uri": "/study/book/springbootmsa/"
   },
   {
     "content": "",
@@ -154,10 +175,10 @@
     "uri": "/categories/"
   },
   {
-    "content": "Lorem Ipsum.\n",
+    "content": "About 그럭저럭 괜찮은 개발자가 되려면 1만시간도 아니고 3만시간은 공부해야 된다고 주장하는 사람들이 있던데, 사실 얼마나 개발을 해왔느냐는 그다지 의미 없겠지만 대충 1X년 정도 개발을 해왔다. 하지만 학부때부터 쳐도 3만 시간에 도달하려면 갈 길이 여전히 많이 남은 거 같다.\n막상 정말 개발만 하는 인간들은 블로깅하는거에 크게 관심이 없다. 아니 블로깅할 시간도 없다. …라고 생각하지만 정말 힘든 건 꾸준하게 할 시간이 없어서 일것이다. 대부분 좀 하다가 적당한 시점에 관둔다. 그리고 해봐야 별 도움안된다고 생각할 수도 이\n작곡을 하는데 있어 chord는 주인이 없고, 우리의 소프트웨어의 code는 주인이 없다. 그거가지고 뭘 만드려고 하던지는 전적으로 개발자들의 몫이다.\n",
     "description": "",
     "tags": null,
-    "title": "Home",
+    "title": "home",
     "uri": "/"
   },
   {

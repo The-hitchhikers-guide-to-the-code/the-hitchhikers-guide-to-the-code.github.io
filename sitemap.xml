@@ -1,75 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://the-hitchhikers-guide-to-the-code.github.io/1.blog/</loc>
-  </url>
-  <url>
-    <loc>https://the-hitchhikers-guide-to-the-code.github.io/4.study/4.1book/</loc>
-  </url>
-  <url>
-    <loc>https://the-hitchhikers-guide-to-the-code.github.io/4.study/4.2csbasic/</loc>
-  </url>
-  <url>
-    <loc>https://the-hitchhikers-guide-to-the-code.github.io/4.study/4.2csbasic/algorithm/</loc>
-  </url>
-  <url>
-    <loc>https://the-hitchhikers-guide-to-the-code.github.io/4.study/4.3language/frontend/</loc>
-  </url>
-  <url>
-    <loc>https://the-hitchhikers-guide-to-the-code.github.io/4.study/4.3language/java/</loc>
-  </url>
-  <url>
-    <loc>https://the-hitchhikers-guide-to-the-code.github.io/4.study/4.3language/js-es-ts/</loc>
-  </url>
-  <url>
-    <loc>https://the-hitchhikers-guide-to-the-code.github.io/4.study/4.3language/python/</loc>
-  </url>
-  <url>
-    <loc>https://the-hitchhikers-guide-to-the-code.github.io/4.study/4.5field/blockchain/</loc>
-  </url>
-  <url>
-    <loc>https://the-hitchhikers-guide-to-the-code.github.io/4.study/4.5field/deeplearning/</loc>
-  </url>
-  <url>
-    <loc>https://the-hitchhikers-guide-to-the-code.github.io/4.study/4.5field/fintech/</loc>
-  </url>
-  <url>
-    <loc>https://the-hitchhikers-guide-to-the-code.github.io/4.study/4.5field/game/</loc>
-  </url>
-  <url>
-    <loc>https://the-hitchhikers-guide-to-the-code.github.io/4.study/4.2csbasic/datastructure/</loc>
-  </url>
-  <url>
-    <loc>https://the-hitchhikers-guide-to-the-code.github.io/2.til/</loc>
-  </url>
-  <url>
-    <loc>https://the-hitchhikers-guide-to-the-code.github.io/4.study/4.2csbasic/computerstructure/</loc>
-  </url>
-  <url>
-    <loc>https://the-hitchhikers-guide-to-the-code.github.io/3.howto/</loc>
-  </url>
-  <url>
-    <loc>https://the-hitchhikers-guide-to-the-code.github.io/4.study/4.2csbasic/os/</loc>
-  </url>
-  <url>
-    <loc>https://the-hitchhikers-guide-to-the-code.github.io/4.study/</loc>
-  </url>
-  <url>
-    <loc>https://the-hitchhikers-guide-to-the-code.github.io/5.paper/</loc>
-  </url>
-  <url>
-    <loc>https://the-hitchhikers-guide-to-the-code.github.io/4.study/4.2csbasic/pl/</loc>
-  </url>
-  <url>
-    <loc>https://the-hitchhikers-guide-to-the-code.github.io/4.study/4.1book/4.1.1springbootmsa/</loc>
-  </url>
-  <url>
-    <loc>https://the-hitchhikers-guide-to-the-code.github.io/categories/</loc>
-  </url>
-  <url>
-    <loc>https://the-hitchhikers-guide-to-the-code.github.io/</loc>
-  </url>
-  <url>
-    <loc>https://the-hitchhikers-guide-to-the-code.github.io/tags/</loc>
-  </url>
-</urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://the-hitchhikers-guide-to-the-code.github.io/en/sitemap.xml</loc>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://the-hitchhikers-guide-to-the-code.github.io/kr/sitemap.xml</loc>
+    
+  </sitemap>
+  
+</sitemapindex>

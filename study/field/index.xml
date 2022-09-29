@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Field on The Hitchhiker&#39;s Guide To The Code</title>
+    <link>https://the-hitchhikers-guide-to-the-code.github.io/study/field/</link>
+    <description>Recent content in Field on The Hitchhiker&#39;s Guide To The Code</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>kr</language><atom:link href="https://the-hitchhikers-guide-to-the-code.github.io/study/field/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Financial Technology</title>
+      <link>https://the-hitchhikers-guide-to-the-code.github.io/study/field/fintech/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://the-hitchhikers-guide-to-the-code.github.io/study/field/fintech/</guid>
+      <description>Lorem Ipsum.</description>
+    </item>
+    <item>
+      <title>Blockchain</title>
+      <link>https://the-hitchhikers-guide-to-the-code.github.io/study/field/blockchain/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://the-hitchhikers-guide-to-the-code.github.io/study/field/blockchain/</guid>
+      <description>Lorem Ipsum.</description>
+    </item>
+    <item>
+      <title>Game</title>
+      <link>https://the-hitchhikers-guide-to-the-code.github.io/study/field/game/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://the-hitchhikers-guide-to-the-code.github.io/study/field/game/</guid>
+      <description>Lorem Ipsum.</description>
+    </item>
+    <item>
+      <title>Deep Learning</title>
+      <link>https://the-hitchhikers-guide-to-the-code.github.io/study/field/deeplearning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://the-hitchhikers-guide-to-the-code.github.io/study/field/deeplearning/</guid>
+      <description>Lorem Ipsum.</description>
+    </item>
+  </channel>
+</rss>
