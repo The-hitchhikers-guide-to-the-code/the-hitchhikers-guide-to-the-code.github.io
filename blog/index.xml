@@ -5,6 +5,13 @@
     <link>https://guide2code.com/blog/</link>
     <description>Recent content in Blog on The Hitchhiker&#39;s Guide To The Code</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>kr</language><atom:link href="https://guide2code.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://guide2code.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Project</title>
+      <link>https://guide2code.com/blog/project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://guide2code.com/blog/project/</guid>
+      <description>프로젝트 </description>
+    </item>
   </channel>
 </rss>
