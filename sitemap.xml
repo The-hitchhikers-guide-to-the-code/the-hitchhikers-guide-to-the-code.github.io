@@ -2,12 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://guide2codes.com/blog/project/</loc>
-  </url><url>
-    <loc>https://guide2codes.com/blog/project/failproject/</loc>
-  </url><url>
     <loc>https://guide2codes.com/</loc>
+    <lastmod>2020-08-20T16:42:11+00:00</lastmod>
+  </url><url>
+    <loc>https://guide2codes.com/docport-theme/</loc>
   </url><url>
     <loc>https://guide2codes.com/blog/</loc>
+    <lastmod>2020-08-20T16:42:11+00:00</lastmod>
+  </url><url>
+    <loc>https://guide2codes.com/study/</loc>
   </url>
 </urlset>
